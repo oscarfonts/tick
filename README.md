@@ -9,7 +9,7 @@ Created project skeleton with:
     sudo npm install -g express-generator
     express tick
 
-Get dependencies:
+Got dependencies:
 
     cd tick
     npm install
@@ -17,6 +17,8 @@ Get dependencies:
 Run server:
 
     ./bin/www
-
     http://localhost:3000
 
+Installed sqlite:
+
+	npm install sqlite3 --save
